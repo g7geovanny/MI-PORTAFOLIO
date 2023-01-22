@@ -165,7 +165,7 @@ img{
  /* ACERCA DE MI */
 
  .sobre-mi{
-    background-image: url(./images/escritorio.jpeg);
+    background-image: url(./img/fondoVerde.jpeg);
     background-repeat: no-repeat;
     background-position: center, center;
     background-size: cover;
